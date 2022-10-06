@@ -1,5 +1,18 @@
 <template>
-    <h1 class="grid">The fabulous social club</h1>
+    <div class="fab-grid">
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
 </template>
 
 <script>
@@ -11,7 +24,11 @@ export default {
 };
 </script>
 <style scoped>
-.grid {
-  @apply bg-pink-500;
+.fab-grid {
+  @apply grid grid-cols-3 gap-4;
+}
+
+.box {
+  @apply w-32 h-32 bg-pink-500;
 }
 </style>

@@ -1,9 +1,11 @@
 <template>
     <div class="navbar">
-      <img
-        class="logo"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo">
+      <div class="logo-container">
+        <img
+          class="logo"
+          src="../assets/logo-the-fabulous-social-club.png"
+          alt="The Fabulous Social Club Logo">
+      </div>
     </div>
 </template>
 
@@ -17,11 +19,15 @@ export default {
 </script>
 <style scoped>
 .navbar {
-  @apply bg-white my-2
+  @apply sticky top-0 z-50 bg-white;
+}
+
+.logo-container {
+  @apply my-2
     flex justify-center items-center;
 }
 
 .logo {
-  @apply w-24 h-auto;
+  @apply w-24 md:w-28 lg:w-32 xl:w-48 h-auto;
 }
 </style>

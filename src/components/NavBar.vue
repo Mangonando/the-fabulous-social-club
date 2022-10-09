@@ -23,8 +23,7 @@ export default {
 }
 
 .logo-container {
-  @apply my-2
-    flex justify-center items-center;
+  @apply py-2 flex justify-center items-center;
 }
 
 .logo {

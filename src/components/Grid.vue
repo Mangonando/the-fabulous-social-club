@@ -3,63 +3,63 @@
     <div class='fab-grid'>
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-4.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-2.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-3.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-1.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-5.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-7.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-7.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-2.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-2.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-2.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-2.png'
+        alt='The Fabulous Social Club'
       />
       <img
         class='box'
-        src='../assets/logo-the-fabulous-social-club.png'
-        alt='The Fabulous Social Club Logo'
+        src='../assets/fabulous-2.png'
+        alt='The Fabulous Social Club'
       />
     </div>
   </div>

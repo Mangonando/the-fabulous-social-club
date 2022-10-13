@@ -1,12 +1,13 @@
 <template>
-    <div class="navbar">
-      <div class="logo-container">
-        <img
-          class="logo"
-          src="../assets/logo-the-fabulous-social-club.png"
-          alt="The Fabulous Social Club Logo">
-      </div>
+  <div class='navbar'>
+    <div class='logo-container'>
+      <img
+        class='logo'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
+      />
     </div>
+  </div>
 </template>
 
 <script>

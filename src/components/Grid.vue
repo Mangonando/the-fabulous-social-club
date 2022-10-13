@@ -1,65 +1,65 @@
 <template>
-  <div class="fab-grid-container">
-    <div class="fab-grid">
+  <div class='fab-grid-container'>
+    <div class='fab-grid'>
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
       <img
-        class="box"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo"
+        class='box'
+        src='../assets/logo-the-fabulous-social-club.png'
+        alt='The Fabulous Social Club Logo'
       />
     </div>
   </div>
@@ -67,7 +67,7 @@
 
 <script>
 export default {
-  name: "FabulousGrid",
+  name: 'FabulousGrid',
   props: {
     msg: String,
   },

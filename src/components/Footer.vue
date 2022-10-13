@@ -1,22 +1,22 @@
 <template>
-  <div class="footer">
+  <div class='footer'>
     <img
-      class="logo"
-      src="../assets/logo-the-fabulous-social-club.png"
-      alt="The Fabulous Social Club Logo"
+      class='logo'
+      src='../assets/logo-the-fabulous-social-club.png'
+      alt='The Fabulous Social Club Logo'
     />
-    <a href="https://github.com/Mangonando/the-fabulous-social-club"
-      ><img class="logo" src="../assets/github-logo.svg" alt="Github logo"
+    <a href='https://github.com/Mangonando/the-fabulous-social-club'
+      ><img class='logo' src='../assets/github-logo.svg' alt='Github logo'
     /></a>
-    <a href="https://www.linkedin.com/in/juan-f-ramirez/"
-      ><img class="logo" src="../assets/linkedin-logo.svg" alt="Linkedin logo"
+    <a href='https://www.linkedin.com/in/juan-f-ramirez/'
+      ><img class='logo' src='../assets/linkedin-logo.svg' alt='Linkedin logo'
     /></a>
   </div>
 </template>
 
 <script>
 export default {
-  name: "FabulousFooter",
+  name: 'FabulousFooter',
   props: {
     msg: String,
   },

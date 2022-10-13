@@ -67,7 +67,6 @@
 
 <script>
 export default {
-  // eslint-disable-next-line quotes
   name: "FabulousGrid",
   props: {
     msg: String,

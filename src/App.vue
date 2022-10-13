@@ -6,13 +6,13 @@
 </template>
 
 <script>
-import NavBar from './components/NavBar.vue';
-import Hero from './components/Hero.vue';
-import Grid from './components/Grid.vue';
-import Footer from './components/Footer.vue';
+import NavBar from "./components/NavBar.vue";
+import Hero from "./components/Hero.vue";
+import Grid from "./components/Grid.vue";
+import Footer from "./components/Footer.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     NavBar,
     Hero,

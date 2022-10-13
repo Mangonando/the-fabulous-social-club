@@ -6,7 +6,6 @@
 
 <script>
 export default {
-  // eslint-disable-next-line quotes
   name: "FabulousHero",
   props: {
     msg: String,

@@ -1,23 +1,18 @@
 <template>
-    <div class="footer">
-      <img
-        class="logo"
-        src="../assets/logo-the-fabulous-social-club.png"
-        alt="The Fabulous Social Club Logo">
-      <img
-        class="logo"
-        src="../assets/github-logo.svg"
-        alt="Github logo">
-      <img
-        class="logo"
-        src="../assets/linkedin-logo.svg"
-        alt="Linkedin logo">
-    </div>
+  <div class="footer">
+    <img
+      class="logo"
+      src="../assets/logo-the-fabulous-social-club.png"
+      alt="The Fabulous Social Club Logo"
+    />
+    <img class="logo" src="../assets/github-logo.svg" alt="Github logo" />
+    <img class="logo" src="../assets/linkedin-logo.svg" alt="Linkedin logo" />
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'FabulousFooter',
+  name: "FabulousFooter",
   props: {
     msg: String,
   },

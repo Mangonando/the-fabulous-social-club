@@ -1,6 +1,6 @@
 <template>
-  <div class='hero'>
-    <img class='' src='../assets/influencer-hero.jpg' alt='The Fabulous Social Club Logo' />
+  <div class="hero">
+    <img class="" src="../assets/fab-hero.png" alt="The Fabulous Social Club Hero" />
   </div>
 </template>
 
@@ -14,6 +14,6 @@ export default {
 </script>
 <style scoped>
 .hero {
-  @apply bg-green-500 flex justify-center items-center;
+  @apply flex justify-center items-center;
 }
 </style>

@@ -37,8 +37,7 @@ export default {
 }
 
 .icon{
-  @apply w-8 md:w-9 lg:w-12 xl:w-14 h-auto
-    fill-lime-400;
+  @apply w-8 md:w-9 lg:w-12 xl:w-14 h-auto;
 }
 
 .logo {

@@ -1,7 +1,7 @@
 <template>
   <NavBar />
-  <Hero />
-  <Grid />
+  <Hero class="space-down" />
+  <Grid class="space-down"/>
   <Footer />
 </template>
 
@@ -28,5 +28,9 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+}
+
+.space-down {
+  @apply mb-8 lg:mb-16;
 }
 </style>
